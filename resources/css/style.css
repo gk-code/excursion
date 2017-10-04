@@ -2,13 +2,14 @@ body{
   background-color: black;
   font-family:Verdana;
   text-align: center;
+  color:white;
 }
+
 .header{
   font-size:50px;
-  color:white;
-
 }
-.headerLink{
+
+.link{
   font-size:16px;
   padding-top: 40px;
   text-decoration: underline;
@@ -16,4 +17,20 @@ body{
 
 a{
   color:Aquamarine;
+}
+
+.heading2{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.paragraph{
+  font-size:21px;
+  color:gray;
+}
+
+.footer{
+  color:gray;
+  text-align: right;
+  font-size: 21px;
 }
